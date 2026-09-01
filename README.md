@@ -1,4 +1,4 @@
-# sql_sales_anaiysis_report
+# sql_sales_analysis_report
 The Sales Analysis System is a SQL-based analytical project designed to generate dynamic sales reports from transaction data.
 This project demonstrates how SQL can be used for business intelligence and decision-making through:
 - Monthly Sales Reports
