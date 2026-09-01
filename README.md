@@ -1,6 +1,6 @@
 # sql_sales_anaiysis_report
-The Sales Analysis System is a SQL-based analytical project designed to designed to generate dynamic sales reports from transaction data.
-This project demonstrates how SQL can be used for business itelligence and decision-making through:
+The Sales Analysis System is a SQL-based analytical project designed to generate dynamic sales reports from transaction data.
+This project demonstrates how SQL can be used for business intelligence and decision-making through:
 - Monthly Sales Reports
 - Regional Sales reports
 - Customer-wise Analysis
@@ -8,7 +8,7 @@ This project demonstrates how SQL can be used for business itelligence and decis
 - Dynamic Date-based Reporting
 
 # Objective
-To build a structured SQl database and generate analytical reports using:
+To build a structured SQL database and generate analytical reports using:
 - DATE functions(MONTH(), YEAR(), NOW())
 - Aggregate functions( SUM(), AVG())
 - CASE statements
@@ -17,7 +17,7 @@ To build a structured SQl database and generate analytical reports using:
 - Business report formatting using SQL
 
 # Learning Outcome
-- SQL analtics
+- SQL analytics
 - Report generation
 - Business data interpretation
 - Structured database design
